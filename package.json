@@ -1,0 +1,22 @@
+{
+  "name": "material-currencyfield",
+  "version": "0.1.0",
+  "description": "Custom TextField (number) with currancy .00",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "material-ui",
+    "node",
+    "npm",
+    "reactjs"
+  ],
+  "author": "Felipe Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1"
+  }
+}
